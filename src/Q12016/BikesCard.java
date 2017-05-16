@@ -4,9 +4,12 @@ package Q12016;
  * Created by wilsonator on 16/05/17.
  */
 public class BikesCard extends Card {
-    public BikesCard(String n, float a, float b, float c) {
-        super(n, a, b, c);
+    public BikesCard(String n) {
+        super(n);
         this.setType("Bikes");
+        categories.add("WheelSize");
+        categories.add("Gears");
+        categories.add("BellSound");
     }
 
     @Override

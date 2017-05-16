@@ -4,12 +4,13 @@ package Q12016;
  * Created by wilsonator on 16/05/17.
  */
 public class CarsCard extends Card {
-    public CarsCard(String n, float a, float b, float c) {
-        super(n, a, b, c);
+    public CarsCard(String n) {
+        super(n);
+        System.out.print("D");
         this.setType("Cars");
-        categories[0] = ("TopSpeed");
-        categories[1] = ("Acceleration");
-        categories[2] = ("Cost");
+        categories.add("TopSpeed");
+        categories.add("Acceleration");
+        categories.add("Cost");
     }
     public float getTopSpeed() {
         return super.getCat1();
