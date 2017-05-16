@@ -9,6 +9,5 @@ public class Main {
         carsCard.writeCard();
         bikesCard.writeCard();
         carsCard.compare(bikesCard,0);
-
     }
 }

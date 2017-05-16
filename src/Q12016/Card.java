@@ -45,6 +45,8 @@ public abstract class Card {
         Card card1 = this;
         if(card1.cats.get(categoryNo)>card2.cats.get(categoryNo)){
             System.out.println(card1.Name + " Wins");
+        }else{
+            System.out.println(card2.Name + " Wins");
         }
     }
     public void writeCard(){
