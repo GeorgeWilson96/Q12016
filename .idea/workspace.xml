@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15578086-4ece-4dfe-8499-af25b49b9153" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Q12016/BikesCard.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Q12016/Card.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Q12016/CarsCard.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Q12016/Q12016/Card.class" afterPath="$PROJECT_DIR$/out/production/Q12016/Q12016/Card.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Q12016/Card.java" afterPath="$PROJECT_DIR$/src/Q12016/Card.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Q12016/Main.java" afterPath="$PROJECT_DIR$/src/Q12016/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,71 +23,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Q12016/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="108">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q12016/Card.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-              <folding>
-                <element signature="e#219#227#0" expanded="true" />
-                <element signature="e#280#287#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BikesCard.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q12016/BikesCard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-              <folding>
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarsCard.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q12016/CarsCard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +58,8 @@
         <option value="$PROJECT_DIR$/src/Q12016/Bike.java" />
         <option value="$PROJECT_DIR$/src/Q12016/CarsCard.java" />
         <option value="$PROJECT_DIR$/src/Q12016/BikesCard.java" />
-        <option value="$PROJECT_DIR$/src/Q12016/Main.java" />
         <option value="$PROJECT_DIR$/src/Q12016/Card.java" />
+        <option value="$PROJECT_DIR$/src/Q12016/Main.java" />
       </list>
     </option>
   </component>
@@ -414,7 +358,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40592784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40592784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -467,14 +411,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -482,45 +419,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q12016/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q12016/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-          <folding>
-            <element signature="e#219#227#0" expanded="true" />
-            <element signature="e#280#287#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="828">
+          <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q12016/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
